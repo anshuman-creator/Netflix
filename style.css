@@ -11,3 +11,8 @@ ul, ol {
 a {
   text-decoration: none;
 }
+.box{
+    background-color: aqua;
+    width: 20vw;
+    height: 23vh;
+}
